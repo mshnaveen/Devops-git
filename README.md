@@ -1,2 +1,0 @@
-# Devops-git
-Git practice
